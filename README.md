@@ -18,6 +18,6 @@ pin_reset.value(1)
 ```
 But the MicroPython script in this repo gives a better example of how it might be implemented within a script, it has an example workload; blinking the onboard LED, some sleeps and explinations along the way.
 
-You can use a new transistor or salvage / desolder small transistors form old electronics and test this on a breadboard using this **hw_transistor_reset.py** to test and demonstrate the ability to perform a hardware reset.
+You can use a new transistor or salvage / desolder small transistors like the one shown aboev from old electronics and test this on a breadboard using this **hw_transistor_reset.py** to demonstrate the ability to perform a hardware reset.
 
 I hope you find this useful, feel free to get in touch to say hi [@ashleycawley](https://twitter.com/ashleycawley)
